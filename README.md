@@ -1,2 +1,2 @@
-# Vids4U
+# WeTubeVids
 A web portal displaying fetched videos from youtube, using youtube api in Php language with jQuery.
